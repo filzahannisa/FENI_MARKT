@@ -15,5 +15,4 @@ Features of projects:
  
 	3. We look into user details  (get)
 	4. We can update, delete, post
- 
-See the list of products they like/ bought 
+ 	5. See the list of products they like/ bought 
