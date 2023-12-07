@@ -8,7 +8,8 @@ user needs to show their name, email, address,postcode phone number,password whe
 
 
 Features of projects:
-	1. Main swagger, get, post **routers** -> islam 
+
+	1. islam: swagger, get, post **routers**  
  
 	2. filzah: Create users/ sign up, **database section**
  
