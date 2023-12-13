@@ -9,9 +9,9 @@ user needs to show their name, email, address,postcode phone number,password whe
 
 Features of projects:
 
-	1. islam: swagger, get, post **routers**  
+	1. islam: create sign up and login **routers**  
  
-	2. filzah: Create users/ sign up, **database section**
+	2. filzah: all databases inventory, orders, connect database **database section**
  
 	3. We look into user details  (get)
 	4. We can update, delete, post
